@@ -1,0 +1,6 @@
+oil_segmentation_env/
+data/
+juno/
+outputs/
+mlruns/
+models/
